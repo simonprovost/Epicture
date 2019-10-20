@@ -15,7 +15,7 @@ _______________________________
 ## Favorites / Up votes / Down votes + Particles Animation : 
 
 ## Profile of user : 
-![](https://github.com/simonprovost/Epicture/blob/master/SCREEN5.jpg)
+<img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN5.jp" width="200" height="400" >
 
 ## Favorites management : 
 ![](https://github.com/simonprovost/Epicture/blob/master/SCREEN1.jpg)
