@@ -25,7 +25,7 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/home/simon/delivery/DEV_epicture_2019/app/src/debug/java;/home/simon/delivery/DEV_epicture_2019/app/src/dev/kotlin;/home/simon/delivery/DEV_epicture_2019/app/src/dev/java;/home/simon/delivery/DEV_epicture_2019/app/src/release/kotlin;/home/simon/delivery/DEV_epicture_2019/app/src/release/java;/home/simon/delivery/DEV_epicture_2019/app/src/debugAndroidTest/kotlin;/home/simon/delivery/DEV_epicture_2019/app/src/devUnitTest/kotlin;/home/simon/delivery/DEV_epicture_2019/app/src/debugUnitTest/kotlin;/home/simon/delivery/DEV_epicture_2019/app/src/releaseUnitTest/kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/home/simon/delivery/Epicture/app/src/debug/java;/home/simon/delivery/Epicture/app/src/dev/kotlin;/home/simon/delivery/Epicture/app/src/dev/java;/home/simon/delivery/Epicture/app/src/release/kotlin;/home/simon/delivery/Epicture/app/src/release/java;/home/simon/delivery/Epicture/app/src/debugAndroidTest/kotlin;/home/simon/delivery/Epicture/app/src/devUnitTest/kotlin;/home/simon/delivery/Epicture/app/src/debugUnitTest/kotlin;/home/simon/delivery/Epicture/app/src/releaseUnitTest/kotlin">
         <compilerSettings>
           <option name="additionalArguments" value="-Xallow-no-source-files" />
         </compilerSettings>
