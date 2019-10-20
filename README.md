@@ -1,19 +1,21 @@
 # Epicture
 A photo finder / browsing app based on Imgur API
-Kotlin was the language used for this project.
 
 The goal of this project is to use and implement online photo sharing API platforms.
 The different aspects of mobile (or universal) applications development was to be taken into account during
 the creation of this project.
 
-Leave a Star if you like this project.
 
-* Connexion Part + Home Main Feed : 
-<img src="https://github.com/simonprovost/Epicture/blob/master/connexionPart.gif" height="650" >
+Kotlin was the language used for this project.
+
+Leave a Star if you like this project.
 
 _______________________________
 
 # Characteristics
+
+## Connexion Part + Home Main Feed : 
+<img src="https://github.com/simonprovost/Epicture/blob/master/connexionPart.gif" height="650" >
 
 ## Favorites / Up votes / Down votes + Particles Animation : 
 <img src="https://github.com/simonprovost/Epicture/blob/master/AnimationParticleApp.gif" height="650" >
