@@ -15,7 +15,7 @@ _______________________________
 ## Favorites / Up votes / Down votes + Particles Animation : 
 
 ## Profile of user : 
-<img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN5.jpg" width="500" height="600" >
+<img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN5.jpg" height="600" >
 
 ## Favorites management : 
 ![](https://github.com/simonprovost/Epicture/blob/master/SCREEN1.jpg)
