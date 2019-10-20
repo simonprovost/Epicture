@@ -1,6 +1,10 @@
 # Epicture
 
-![](https://i.imgur.com/U6GEQR5.png)
+
+<kbd>
+  <img src="https://i.imgur.com/U6GEQR5.png">
+</kbd>
+
 
 A photo finder / browsing app based on Imgur API
 
