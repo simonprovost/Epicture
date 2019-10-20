@@ -1,9 +1,10 @@
 # Epicture
 
-
+<p align="center">
 <kbd>
   <img src="https://i.imgur.com/U6GEQR5.png">
 </kbd>
+</p>
 
 
 A photo finder / browsing app based on Imgur API
@@ -22,26 +23,33 @@ _______________________________
 # Characteristics
 
 ## Connexion Part + Home Main Feed : 
+<p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/connexionPart.gif" height="650" >
-
+</p>
 ## Favorites / Up votes / Down votes + Particles Animation : 
+<p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/AnimationParticleApp.gif" height="650" >
-
+</p>
 ## Profile of user : 
+<p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN5.jpg" height="650" >
-
+</p>
 ## Favorites management : 
+<p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN1.jpg" height="650" >
-
+</p>
 
 ## Search all the picture by a key : 
+<p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN2.jpg" height="650" >
-
+</p>
 
 ## Filter the main feed by Highest Scoring, newest picture and so on.. : 
+<p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN3.jpg" height="650" >
-
+</p>
 
 ## Upload your picture on your profile :
+<p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN4.jpg" height="650" >
-
+</p>
