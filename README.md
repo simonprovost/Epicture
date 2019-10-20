@@ -26,14 +26,17 @@ _______________________________
 <p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/connexionPart.gif" height="650" >
 </p>
+
 ## Favorites / Up votes / Down votes + Particles Animation : 
 <p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/AnimationParticleApp.gif" height="650" >
 </p>
+
 ## Profile of user : 
 <p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN5.jpg" height="650" >
 </p>
+
 ## Favorites management : 
 <p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN1.jpg" height="650" >
