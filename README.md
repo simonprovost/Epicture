@@ -42,7 +42,7 @@ _______________________________
 <img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN1.jpg" height="650" >
 </p>
 
-## Search all the picture by a key : 
+## Search all the pictures by a key : 
 <p align="center">
 <img src="https://github.com/simonprovost/Epicture/blob/master/SCREEN2.jpg" height="650" >
 </p>
